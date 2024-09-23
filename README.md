@@ -16,3 +16,8 @@ Essa abordagem em etapas é essencial para garantir que o design final não só 
 
 ## Mobile
 <a href="https://github.com/gabriel-ortolani/ProjetoCompleto_Temakeria/blob/main/Temakeria_mobile.pdf"><img src="https://github.com/gabriel-ortolani/ProjetoCompleto_Temakeria/blob/main/img/temakeria-mobile.png"></a>
+
+## Site finalizado
+<img src="https://github.com/gabriel-ortolani/ProjetoCompleto_Temakeria/blob/main/img/site1.png">
+<hr>
+<img src="https://github.com/gabriel-ortolani/ProjetoCompleto_Temakeria/blob/main/img/site2.png">
